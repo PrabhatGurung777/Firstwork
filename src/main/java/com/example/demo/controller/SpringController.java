@@ -8,7 +8,7 @@ public class SpringController {
 		
 		@GetMapping("/dummyData")
 		public String getResponse() {
-			return "Hello!!!";
+			return "Update To Hi!!!";
 		}
 
 	}
